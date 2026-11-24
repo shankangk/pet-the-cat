@@ -1,0 +1,9 @@
+{
+  "name": "pet-the-cat-clone",
+  "version": "1.0.0",
+  "description": "Unpacked & de-obfuscated reverse-engineered clone of https://pet-the-cat.pages.dev/",
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs"
+  }
+}

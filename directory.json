@@ -1,0 +1,245 @@
+{
+  "grip-slim": {
+    "src": "assets/grip-slim.avif",
+    "x": 202,
+    "y": 79,
+    "w": 643,
+    "h": 1457,
+    "W": 1024,
+    "H": 1536
+  },
+  "hachi": {
+    "src": "assets/hachi.avif",
+    "x": 119,
+    "y": 242,
+    "w": 1113,
+    "h": 461,
+    "W": 1517,
+    "H": 935
+  },
+  "hachi-tail": {
+    "src": "assets/hachi-tail.avif",
+    "x": 0,
+    "y": 26,
+    "w": 665,
+    "h": 174,
+    "W": 684,
+    "H": 200
+  },
+  "hana": {
+    "src": "assets/hana.avif",
+    "x": 121,
+    "y": 243,
+    "w": 1110,
+    "h": 457,
+    "W": 1517,
+    "H": 935
+  },
+  "hana-tail": {
+    "src": "assets/hana-tail.avif",
+    "x": 0,
+    "y": 26,
+    "w": 664,
+    "h": 174,
+    "W": 684,
+    "H": 200
+  },
+  "hand-slim": {
+    "src": "assets/hand-slim.avif",
+    "x": 57,
+    "y": 66,
+    "w": 919,
+    "h": 1470,
+    "W": 1024,
+    "H": 1536
+  },
+  "kuro": {
+    "src": "assets/kuro.avif",
+    "x": 120,
+    "y": 242,
+    "w": 1112,
+    "h": 461,
+    "W": 1517,
+    "H": 935
+  },
+  "kuro-tail": {
+    "src": "assets/kuro-tail.avif",
+    "x": 0,
+    "y": 25,
+    "w": 666,
+    "h": 175,
+    "W": 684,
+    "H": 200
+  },
+  "mugi": {
+    "src": "assets/mugi.avif",
+    "x": 120,
+    "y": 242,
+    "w": 1111,
+    "h": 459,
+    "W": 1517,
+    "H": 935
+  },
+  "mugi-tail": {
+    "src": "assets/mugi-tail.avif",
+    "x": 0,
+    "y": 27,
+    "w": 664,
+    "h": 173,
+    "W": 684,
+    "H": 200
+  },
+  "room": {
+    "src": "assets/room.avif",
+    "x": 0,
+    "y": 0,
+    "w": 1517,
+    "h": 935,
+    "W": 1517,
+    "H": 935
+  },
+  "sabi": {
+    "src": "assets/sabi.avif",
+    "x": 120,
+    "y": 242,
+    "w": 1112,
+    "h": 461,
+    "W": 1517,
+    "H": 935
+  },
+  "sabi-tail": {
+    "src": "assets/sabi-tail.avif",
+    "x": 0,
+    "y": 25,
+    "w": 666,
+    "h": 175,
+    "W": 684,
+    "H": 200
+  },
+  "shiro": {
+    "src": "assets/shiro.avif",
+    "x": 120,
+    "y": 244,
+    "w": 1112,
+    "h": 457,
+    "W": 1517,
+    "H": 935
+  },
+  "shiro-tail": {
+    "src": "assets/shiro-tail.avif",
+    "x": 0,
+    "y": 28,
+    "w": 663,
+    "h": 172,
+    "W": 684,
+    "H": 200
+  },
+  "gray": {
+    "src": "assets/gray.avif",
+    "x": 120,
+    "y": 242,
+    "w": 1112,
+    "h": 461,
+    "W": 1517,
+    "H": 935
+  },
+  "gray-tail": {
+    "src": "assets/gray-tail.avif",
+    "x": 0,
+    "y": 25,
+    "w": 666,
+    "h": 175,
+    "W": 684,
+    "H": 200
+  },
+  "kiji": {
+    "src": "assets/kiji.avif",
+    "x": 120,
+    "y": 244,
+    "w": 1115,
+    "h": 456,
+    "W": 1517,
+    "H": 935
+  },
+  "kiji-tail": {
+    "src": "assets/kiji-tail.avif",
+    "x": 0,
+    "y": 23,
+    "w": 662,
+    "h": 177,
+    "W": 684,
+    "H": 200
+  },
+  "siam": {
+    "src": "assets/siam.avif",
+    "x": 123,
+    "y": 244,
+    "w": 1109,
+    "h": 455,
+    "W": 1517,
+    "H": 935
+  },
+  "siam-tail": {
+    "src": "assets/siam-tail.avif",
+    "x": 0,
+    "y": 23,
+    "w": 662,
+    "h": 177,
+    "W": 684,
+    "H": 200
+  },
+  "ragdoll": {
+    "src": "assets/ragdoll.avif",
+    "x": 107,
+    "y": 222,
+    "w": 1143,
+    "h": 494,
+    "W": 1517,
+    "H": 935
+  },
+  "ragdoll-tail": {
+    "src": "assets/ragdoll-tail.avif",
+    "x": 0,
+    "y": 10,
+    "w": 665,
+    "h": 186,
+    "W": 684,
+    "H": 200
+  },
+  "siberian": {
+    "src": "assets/siberian.avif",
+    "x": 112,
+    "y": 227,
+    "w": 1120,
+    "h": 505,
+    "W": 1517,
+    "H": 935
+  },
+  "siberian-tail": {
+    "src": "assets/siberian-tail.avif",
+    "x": 0,
+    "y": 7,
+    "w": 665,
+    "h": 193,
+    "W": 684,
+    "H": 200
+  },
+  "norwegian": {
+    "src": "assets/norwegian.avif",
+    "x": 116,
+    "y": 238,
+    "w": 1116,
+    "h": 474,
+    "W": 1517,
+    "H": 935
+  },
+  "norwegian-tail": {
+    "src": "assets/norwegian-tail.avif",
+    "x": 0,
+    "y": 14,
+    "w": 665,
+    "h": 186,
+    "W": 684,
+    "H": 200
+  }
+}
